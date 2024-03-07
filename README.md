@@ -1,4 +1,7 @@
 [![Python application](https://github.com/Eik-Lab/GITHUB_WS_CICD/actions/workflows/python-app.yml/badge.svg)](https://github.com/Eik-Lab/GITHUB_WS_CICD/actions/workflows/python-app.yml)
+
+[![HTML Validation](https://github.com/Eik-Lab/GITHUB_WS_CICD/actions/workflows/html-validation.yml/badge.svg)](https://github.com/Eik-Lab/GITHUB_WS_CICD/actions/workflows/html-validation.yml)
+
 # GIT WORKSHOP
 
 ## Introduksjon
